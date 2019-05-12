@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DnD-Plus-Plus</string>
+    <string name="roll">roll a</string>
 </resources>
